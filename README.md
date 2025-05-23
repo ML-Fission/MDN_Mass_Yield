@@ -57,3 +57,8 @@ or
 
 ### Number of mixes (Gaussians)
 **3** mixes
+
+# Citing
+The main publication (and documentation) to cite is:
+
+- Vasilis Tsioulos and Vaia Prassa, "Mixture density network in evaluating incomplete fission mass yields", Volume 60, article number 182, (2024) The European Physical Journal A, DOI: [10.1140/epja/s10050-024-01409-0](https://doi.org/10.1140/epja/s10050-024-01409-0)
